@@ -1,0 +1,7 @@
+# Ignorer les secrets et volumes
+secrets/
+data/
+
+# Ignorer les fichiers temporaires
+*.log
+
